@@ -110,55 +110,67 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <table>
   <tr>
-    <td width="25%">
-      <b>🔐 Kuromi — Honeypot Dashboard</b><br>
-      SSH honeypot with Three.js 3D visualization.
+    <td width="20%">
+      <b>🔐 Kuromi</b><br>
+      SSH Honeypot Dashboard
       <br>
-      <a href="https://github.com/shwetakanth09/honeypot-project">View →</a>
+      <a href="https://github.com/shwetakanth09/honeypot-project">→</a>
     </td>
-    <td width="25%">
-      <b>🛡️ Vigil — Web Security Scanner</b><br>
-      REST API scanner for headers, SSL, and ports.
+    <td width="20%">
+      <b>🛡️ Vigil</b><br>
+      Web Security Scanner
       <br>
-      <a href="https://github.com/shwetakanth09/vigil-security-scanner">View →</a>
+      <a href="https://github.com/shwetakanth09/vigil-security-scanner">→</a>
     </td>
-    <td width="25%">
-      <b>🔧 Cybersecurity Toolkit</b><br>
-      Scanner, log analyzer, FIM, vuln checker.
+    <td width="20%">
+      <b>🔧 Cyber Toolkit</b><br>
+      Security Modules
       <br>
-      <a href="https://github.com/shwetakanth09/cybersecurity-toolkit">View →</a>
+      <a href="https://github.com/shwetakanth09/cybersecurity-toolkit">→</a>
     </td>
-    <td width="25%">
-      <b>🐍 Python Utilities</b><br>
-      File, data, and system utility modules.
+    <td width="20%">
+      <b>🐍 Python Utils</b><br>
+      Utility Modules
       <br>
-      <a href="https://github.com/shwetakanth09/python-utilities">View →</a>
+      <a href="https://github.com/shwetakanth09/python-utilities">→</a>
+    </td>
+    <td width="20%">
+      <b>⚙️ DevOps</b><br>
+      Docker & CI/CD Scripts
+      <br>
+      <a href="https://github.com/shwetakanth09/devops-scripts">→</a>
     </td>
   </tr>
   <tr>
-    <td width="25%">
-      <b>⚙️ DevOps Scripts</b><br>
-      Docker, CI/CD, and Linux automation.
+    <td width="20%">
+      <b>🤖 Actions</b><br>
+      Workflow Templates
       <br>
-      <a href="https://github.com/shwetakanth09/devops-scripts">View →</a>
+      <a href="https://github.com/shwetakanth09/github-action-templates">→</a>
     </td>
-    <td width="25%">
-      <b>🤖 GitHub Actions</b><br>
-      Reusable CI/CD workflow templates.
+    <td width="20%">
+      <b>📝 CTF</b><br>
+      Challenge Writeups
       <br>
-      <a href="https://github.com/shwetakanth09/github-action-templates">View →</a>
+      <a href="https://github.com/shwetakanth09/ctf-writeups">→</a>
     </td>
-    <td width="25%">
-      <b>📝 CTF Writeups</b><br>
-      Crypto, forensics, and web challenges.
+    <td width="20%">
+      <b>🚀 REST API</b><br>
+      Flask Boilerplate
       <br>
-      <a href="https://github.com/shwetakanth09/ctf-writeups">View →</a>
+      <a href="https://github.com/shwetakanth09/rest-api-boilerplate">→</a>
     </td>
-    <td width="25%">
-      <b>📱 Android Malware Detection</b><br>
-      ML-based malware detection system.
+    <td width="20%">
+      <b>🐧 Linux Auto</b><br>
+      Admin Scripts
       <br>
-      <a href="https://github.com/shwetakanth09/android-malware-detection">View →</a>
+      <a href="https://github.com/shwetakanth09/linux-automation-scripts">→</a>
+    </td>
+    <td width="20%">
+      <b>🛡️ Hardening</b><br>
+      Security Guides
+      <br>
+      <a href="https://github.com/shwetakanth09/security-hardening-guides">→</a>
     </td>
   </tr>
 </table>
