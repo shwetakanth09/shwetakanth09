@@ -27,7 +27,7 @@
 
 <h1 align="center">Hi there, I'm Shweta Kanth 👋</h1>
 
-<h3 align="center">B.Tech CSE (Cybersecurity) @ Parul University | Cybersecurity Enthusiast | Threat Detection & Network Security</h3>
+<h3 align="center">Cybersecurity Enthusiast | Threat Detection & Network Security</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shweta-kanth-465a683b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -48,7 +48,7 @@
 
 ```yaml
 name: Shweta Kanth
-education: B.Tech CSE (Cybersecurity) @ Parul University
+  education: B.Tech CSE (Cybersecurity)
 fields_of_interest:
   - Network Security
   - Threat Detection & Analysis
