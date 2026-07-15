@@ -110,23 +110,55 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <table>
   <tr>
-    <td width="33%">
-      <b>🔐 Kuromi — SSH Honeypot Dashboard</b><br>
-      Real-time SSH honeypot with 3D cyberpunk visualization using Three.js, Flask, and Docker.
-      <br><br>
-      <a href="https://github.com/shwetakanth09/honeypot-project">View on GitHub →</a>
+    <td width="25%">
+      <b>🔐 Kuromi — Honeypot Dashboard</b><br>
+      SSH honeypot with Three.js 3D visualization.
+      <br>
+      <a href="https://github.com/shwetakanth09/honeypot-project">View →</a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <b>🛡️ Vigil — Web Security Scanner</b><br>
-      Web security scanner with REST API, JWT auth, and dashboard. Checks security headers, SSL/TLS, and open ports.
-      <br><br>
-      <a href="https://github.com/shwetakanth09/vigil-security-scanner">View on GitHub →</a>
+      REST API scanner for headers, SSL, and ports.
+      <br>
+      <a href="https://github.com/shwetakanth09/vigil-security-scanner">View →</a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <b>🔧 Cybersecurity Toolkit</b><br>
-      Modular toolkit: network scanner, log analyzer, file integrity monitor, and vulnerability scanner with CLI.
-      <br><br>
-      <a href="https://github.com/shwetakanth09/cybersecurity-toolkit">View on GitHub →</a>
+      Scanner, log analyzer, FIM, vuln checker.
+      <br>
+      <a href="https://github.com/shwetakanth09/cybersecurity-toolkit">View →</a>
+    </td>
+    <td width="25%">
+      <b>🐍 Python Utilities</b><br>
+      File, data, and system utility modules.
+      <br>
+      <a href="https://github.com/shwetakanth09/python-utilities">View →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <b>⚙️ DevOps Scripts</b><br>
+      Docker, CI/CD, and Linux automation.
+      <br>
+      <a href="https://github.com/shwetakanth09/devops-scripts">View →</a>
+    </td>
+    <td width="25%">
+      <b>🤖 GitHub Actions</b><br>
+      Reusable CI/CD workflow templates.
+      <br>
+      <a href="https://github.com/shwetakanth09/github-action-templates">View →</a>
+    </td>
+    <td width="25%">
+      <b>📝 CTF Writeups</b><br>
+      Crypto, forensics, and web challenges.
+      <br>
+      <a href="https://github.com/shwetakanth09/ctf-writeups">View →</a>
+    </td>
+    <td width="25%">
+      <b>📱 Android Malware Detection</b><br>
+      ML-based malware detection system.
+      <br>
+      <a href="https://github.com/shwetakanth09/android-malware-detection">View →</a>
     </td>
   </tr>
 </table>
