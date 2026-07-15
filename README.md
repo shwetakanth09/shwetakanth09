@@ -110,17 +110,23 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <b>🔐 Kuromi — SSH Honeypot Dashboard</b><br>
       Real-time SSH honeypot with 3D cyberpunk visualization using Three.js, Flask, and Docker.
       <br><br>
       <a href="https://github.com/shwetakanth09/honeypot-project">View on GitHub →</a>
     </td>
-    <td width="50%">
-      <b>📱 Android Malware Detection</b><br>
-      ML-based Android malware detection system using feature extraction and data-driven threat analysis.
+    <td width="33%">
+      <b>🛡️ Vigil — Web Security Scanner</b><br>
+      Web security scanner with REST API, JWT auth, and dashboard. Checks security headers, SSL/TLS, and open ports.
       <br><br>
-      <a href="#">View on GitHub →</a>
+      <a href="https://github.com/shwetakanth09/vigil-security-scanner">View on GitHub →</a>
+    </td>
+    <td width="33%">
+      <b>🔧 Cybersecurity Toolkit</b><br>
+      Modular toolkit: network scanner, log analyzer, file integrity monitor, and vulnerability scanner with CLI.
+      <br><br>
+      <a href="https://github.com/shwetakanth09/cybersecurity-toolkit">View on GitHub →</a>
     </td>
   </tr>
 </table>
