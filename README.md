@@ -244,16 +244,16 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
   <tr>
     <td align="center" width="50%">
       
-**📈 Stats Overview**
+**🏆 Top Languages**
       
-<img src="https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" width="100%"/>
 
     </td>
     <td align="center" width="50%">
       
-**🏆 Top Languages**
+**🔥 Streak Stats**
       
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d" width="100%"/>
 
     </td>
   </tr>
@@ -264,19 +264,6 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 ### 📅 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetakanth09&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%"/>
-
-<br>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d" width="400"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=FF4444&ring=FF4444&fire=FF4444&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF4444&sideLabels=c9d1d9&dates=484f58&border=30363d&mode=daily" width="400"/>
-    </td>
-  </tr>
-</table>
 
 <br>
 
