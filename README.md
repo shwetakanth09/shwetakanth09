@@ -240,45 +240,52 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      
+**📈 Stats Overview**
+      
+<img src="https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" width="100%"/>
 
-<!-- Profile Stats Badges -->
-<img src="https://img.shields.io/badge/📦_Repos-29-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-<img src="https://img.shields.io/badge/👥_Followers-2-FF4444?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
-<img src="https://img.shields.io/badge/🔗_Following-2-00FF88?style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
-<img src="https://img.shields.io/badge/📅_Member_Since-Mar_2026-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Member Since"/>
+    </td>
+    <td align="center" width="50%">
+      
+**🏆 Top Languages**
+      
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" width="100%"/>
 
-</div>
-
-<br>
-
-<!-- Contribution Stats -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" width="300"/>
-
-</div>
-
-<br>
-
-<!-- Contribution Graph -->
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shwetakanth09&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true)
-
-</div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- Contribution Period -->
-<div align="center">
+### 📅 Contribution Activity
 
-<img src="https://img.shields.io/badge/📅_Contributing_Since-Mar_2026-00D4FF?style=for-the-badge&logo=calendar&logoColor=white" alt="Contributing Since"/>
-<img src="https://img.shields.io/badge/🔥_Active-130+_Days-FF4444?style=for-the-badge&logo=fire&logoColor=white" alt="Active Days"/>
-<img src="https://img.shields.io/badge/📈_Last_Active-Jul_2026-00FF88?style=for-the-badge&logo=activity&logoColor=white" alt="Last Active"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetakanth09&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%"/>
 
-</div>
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📦_Repos-29-00D4FF?style=flat-square&logo=github&logoColor=white" alt="Repos"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/👥_Followers-2-FF4444?style=flat-square&logo=github&logoColor=white" alt="Followers"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔗_Following-2-00FF88?style=flat-square&logo=github&logoColor=white" alt="Following"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📅_Since-Mar_2026-FFD700?style=flat-square&logo=calendar&logoColor=white" alt="Since"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔥_130+_Days_Active-FF4444?style=flat-square&logo=fire&logoColor=white" alt="Active"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
