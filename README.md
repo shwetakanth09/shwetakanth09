@@ -242,11 +242,9 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <div align="center">
 
-<!-- Contribution Stats Badges -->
-<img src="https://img.shields.io/badge/📅_Contributing_Since-Jan_2026-00D4FF?style=for-the-badge&animation=slight" alt="Contributing Since"/>
-<img src="https://img.shields.io/badge/🔥_Active_Days-180+-FF4444?style=for-the-badge&animation=slight" alt="Active Days"/>
-<img src="https://img.shields.io/badge/📈_Total_Commits-1500+-00FF88?style=for-the-badge&animation=slight" alt="Total Commits"/>
-<img src="https://img.shields.io/badge/🏆_Streak-180+_Days-FFD700?style=for-the-badge&animation=slight" alt="Streak"/>
+<!-- Contribution Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" width="300"/>
 
 </div>
 
@@ -255,26 +253,18 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 <!-- Contribution Graph -->
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shwetakanth09&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&width=100%)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shwetakanth09&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true)
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td>
+<!-- Contribution Streak -->
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58)
 
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
