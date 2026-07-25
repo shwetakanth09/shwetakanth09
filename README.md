@@ -240,22 +240,33 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetakanth09&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
 <table>
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true)
 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&mode=weekly)
+
+</div>
 
 <br>
 
