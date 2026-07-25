@@ -240,49 +240,32 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      
-**🏆 Top Languages**
-      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" width="100%"/>
+<div align="center">
 
-    </td>
-    <td align="center" width="50%">
-      
-**🔥 Streak Stats**
-      
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d" width="49%"/>
 
-    </td>
-  </tr>
-</table>
+</div>
 
 <br>
 
-### 📅 Contribution Activity
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetakanth09&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetakanth09&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="49%"/>
+
+</div>
 
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=shwetakanth09&label=Profile%20Views&color=0A66C2&style=for-the-badge&animation=slight" alt="Profile Views"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/shwetakanth09?color=FF4444&style=for-the-badge&logo=github&logoColor=white&animation=slight" alt="Followers"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/repos/shwetakanth09?color=00D4FF&style=for-the-badge&logo=github&logoColor=white&animation=slight" alt="Repos"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/shwetakanth09?color=FFD700&style=for-the-badge&logo=github&logoColor=white&animation=slight" alt="Stars"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shwetakanth09&label=Profile+Views&color=0A66C2&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/shwetakanth09?color=FF4444&style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/repos/shwetakanth09?color=00D4FF&style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+<img src="https://img.shields.io/github/stars/shwetakanth09?color=FFD700&style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+
+</div>
 
 <br>
 
