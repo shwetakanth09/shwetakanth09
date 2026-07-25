@@ -270,16 +270,16 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/📦_Repos-29-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+      <img src="https://komarev.com/ghpvc/?username=shwetakanth09&label=Profile%20Views&color=0A66C2&style=for-the-badge&animation=slight" alt="Profile Views"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/👥_Followers-2-FF4444?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+      <img src="https://img.shields.io/github/followers/shwetakanth09?color=FF4444&style=for-the-badge&logo=github&logoColor=white&animation=slight" alt="Followers"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🔗_Following-2-00FF88?style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+      <img src="https://img.shields.io/github/repos/shwetakanth09?color=00D4FF&style=for-the-badge&logo=github&logoColor=white&animation=slight" alt="Repos"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/📅_Since-Mar_2026-FFD700?style=for-the-badge&logo=calendar&logoColor=white" alt="Since"/>
+      <img src="https://img.shields.io/github/stars/shwetakanth09?color=FFD700&style=for-the-badge&logo=github&logoColor=white&animation=slight" alt="Stars"/>
     </td>
   </tr>
 </table>
