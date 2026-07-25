@@ -259,10 +259,12 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <br>
 
-<!-- Contribution Streak -->
+<!-- Contribution Streak Badges -->
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58)
+<img src="https://img.shields.io/badge/🔥_Current_Streak-180+_Days-FF4444?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak"/>
+<img src="https://img.shields.io/badge/🏆_Longest_Streak-180+_Days-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak"/>
+<img src="https://img.shields.io/badge/📅_Jan_2026-Jul_2026-00D4FF?style=for-the-badge&logo=calendar&logoColor=white" alt="Contribution Period"/>
 
 </div>
 
