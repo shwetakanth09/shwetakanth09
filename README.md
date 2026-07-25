@@ -242,7 +242,19 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <div align="center">
 
+<!-- Profile Stats Badges -->
+<img src="https://img.shields.io/badge/📦_Repos-29-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+<img src="https://img.shields.io/badge/👥_Followers-2-FF4444?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/badge/🔗_Following-2-00FF88?style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+<img src="https://img.shields.io/badge/📅_Member_Since-Mar_2026-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Member Since"/>
+
+</div>
+
+<br>
+
 <!-- Contribution Stats -->
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" width="300"/>
 
@@ -259,12 +271,12 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <br>
 
-<!-- Contribution Streak Badges -->
+<!-- Contribution Period -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/🔥_Current_Streak-180+_Days-FF4444?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak"/>
-<img src="https://img.shields.io/badge/🏆_Longest_Streak-180+_Days-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak"/>
-<img src="https://img.shields.io/badge/📅_Jan_2026-Jul_2026-00D4FF?style=for-the-badge&logo=calendar&logoColor=white" alt="Contribution Period"/>
+<img src="https://img.shields.io/badge/📅_Contributing_Since-Mar_2026-00D4FF?style=for-the-badge&logo=calendar&logoColor=white" alt="Contributing Since"/>
+<img src="https://img.shields.io/badge/🔥_Active-130+_Days-FF4444?style=for-the-badge&logo=fire&logoColor=white" alt="Active Days"/>
+<img src="https://img.shields.io/badge/📈_Last_Active-Jul_2026-00FF88?style=for-the-badge&logo=activity&logoColor=white" alt="Last Active"/>
 
 </div>
 
