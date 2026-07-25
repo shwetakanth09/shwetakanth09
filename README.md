@@ -270,19 +270,29 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/📦_Repos-29-00D4FF?style=flat-square&logo=github&logoColor=white" alt="Repos"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d" width="400"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/👥_Followers-2-FF4444?style=flat-square&logo=github&logoColor=white" alt="Followers"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=FF4444&ring=FF4444&fire=FF4444&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF4444&sideLabels=c9d1d9&dates=484f58&border=30363d&mode=daily" width="400"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📦_Repos-29-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🔗_Following-2-00FF88?style=flat-square&logo=github&logoColor=white" alt="Following"/>
+      <img src="https://img.shields.io/badge/👥_Followers-2-FF4444?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/📅_Since-Mar_2026-FFD700?style=flat-square&logo=calendar&logoColor=white" alt="Since"/>
+      <img src="https://img.shields.io/badge/🔗_Following-2-00FF88?style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🔥_130+_Days_Active-FF4444?style=flat-square&logo=fire&logoColor=white" alt="Active"/>
+      <img src="https://img.shields.io/badge/📅_Since-Mar_2026-FFD700?style=for-the-badge&logo=calendar&logoColor=white" alt="Since"/>
     </td>
   </tr>
 </table>
