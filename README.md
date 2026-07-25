@@ -1,48 +1,83 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="900"/>
+
+<!-- Animated Header GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="900"/>
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+<!-- Typing Animation SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there,+I'm+Shweta+Kanth+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%9A%E1;Threat+Detection+%F0%9F%94%93;Network+Security+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="70"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="70"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="70"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="70"/>
+
+<!-- Animated Wave Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
 </div>
 
 <br>
 
-<h1 align="center">Hi there, I'm Shweta Kanth 👋</h1>
+<div align="center">
 
-<h3 align="center">Cybersecurity Enthusiast | Threat Detection & Network Security</h3>
+<!-- Tech Stack Icons with Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="70"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70"/>
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="70"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="70"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="70"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shweta-kanth-465a683b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shwetakanth5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/shwetakanth09"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shwetakanth09&label=Profile%20Views&color=0A66C2&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/shwetakanth09?color=0A66C2&style=flat" alt="followers"/>
-</p>
+</div>
 
 <br>
 
-<hr>
+<div align="center">
+
+<!-- Social Badges with Animation -->
+<a href="https://www.linkedin.com/in/shweta-kanth-465a683b8">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=slight" alt="LinkedIn"/>
+</a>
+<a href="mailto:shwetakanth5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=slight" alt="Email"/>
+</a>
+<a href="https://github.com/shwetakanth09">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&animation=slight" alt="GitHub"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Profile Stats -->
+<img src="https://komarev.com/ghpvc/?username=shwetakanth09&label=Profile%20Views&color=0A66C2&style=for-the-badge&animation=slight" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/shwetakanth09?color=0A66C2&style=for-the-badge&animation=slight" alt="followers"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<!-- Section Header Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212749808-5e8e8089-5e22-4d3b-9b6b-3e8a73e8f8c1.gif" width="400"/>
+
+</div>
 
 ## 👩‍💻 About Me
 
@@ -64,7 +99,13 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <br>
 
-<hr>
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749808-5e8e8089-5e22-4d3b-9b6b-3e8a73e8f8c1.gif" width="400"/>
+
+</div>
 
 ## 🏆 Certifications
 
@@ -94,7 +135,13 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <br>
 
-<hr>
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749808-5e8e8089-5e22-4d3b-9b6b-3e8a73e8f8c1.gif" width="400"/>
+
+</div>
 
 ## 💼 Experience
 
@@ -104,7 +151,13 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <br>
 
-<hr>
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749808-5e8e8089-5e22-4d3b-9b6b-3e8a73e8f8c1.gif" width="400"/>
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -177,46 +230,72 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 
 <br>
 
-<hr>
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749808-5e8e8089-5e22-4d3b-9b6b-3e8a73e8f8c1.gif" width="400"/>
+
+</div>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="330"/>
-</p>
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58" width="700"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwetakanth09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetakanth09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwetakanth09&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58)
 
 <br>
 
-<hr>
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749808-5e8e8089-5e22-4d3b-9b6b-3e8a73e8f8c1.gif" width="400"/>
+
+</div>
 
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network_Security-00A98F?style=for-the-badge&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Penetration_Testing-7C3AED?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/IAM-FF6F00?style=for-the-badge&logo=identity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-01D277?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&animation=slight"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/Network_Security-00A98F?style=for-the-badge&logo=security&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/Penetration_Testing-7C3AED?style=for-the-badge&logo=target&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=slight"/>
+  <img src="https://img.shields.io/badge/IAM-FF6F00?style=for-the-badge&logo=identity&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-01D277?style=for-the-badge&logo=tensorflow&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&animation=slight"/>
+  <img src="https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=metasploit&logoColor=white&animation=slight"/>
 </p>
 
 <br>
 
-<hr>
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749808-5e8e8089-5e22-4d3b-9b6b-3e8a73e8f8c1.gif" width="400"/>
+
+</div>
 
 ## 📫 Connect With Me
 
@@ -237,10 +316,20 @@ goal: "To secure digital infrastructures and protect against evolving cyber thre
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="600"/>
+
+<!-- Footer Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="600"/>
+
 </div>
 
 <br>
+
+<div align="center">
+
+<!-- Open to Work Badge -->
+<img src="https://img.shields.io/badge/🟢_Open_to_Work-00FF88?style=for-the-badge&animation=slight" alt="Open to Work"/>
+
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25"/>
